@@ -22,14 +22,14 @@ A calculadora possui uma interface simples e intuitiva, com um display para exib
 
 Para realizar uma operação, siga os passos abaixo:
 
-Digite o primeiro número que deseja utilizar.
-Clique no botão da operação que deseja realizar (+, -, *, /).
-Digite o segundo número que deseja utilizar.
-Clique no botão "=" para exibir o resultado.
-Você pode também limpar o display da calculadora clicando no botão "C".
+- Digite o primeiro número que deseja utilizar.
+- Clique no botão da operação que deseja realizar (+, -, *, /).
+- Digite o segundo número que deseja utilizar.
+- Clique no botão "=" para exibir o resultado.
+- Você pode também limpar o display da calculadora clicando no botão "CE" e limpar toda a operação com o botão "C"
 
 # Tecnologias Utilizadas
-C#
-Windows Forms
+- C#
+- Windows Forms
 
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste projeto e enviar suas sugestões através de pull requests.
