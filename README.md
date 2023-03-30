@@ -5,12 +5,19 @@ Este projeto é uma calculadora simples, desenvolvida em C# utilizando o Windows
 Para executar a calculadora, é necessário ter o .NET Framework instalado na máquina. Você pode baixar a versão mais recente do .NET Framework em https://dotnet.microsoft.com/download.
 
 # Como Executar
-Para executar a calculadora, siga os passos abaixo:
+Terá duas formas executar a calculadora, siga os passos abaixo:
 
 Clone o repositório em sua máquina.
 Abra o projeto no Visual Studio.
 Compile e execute o projeto.
 A calculadora será aberta em uma nova janela.
+_______
+
+Baixe a pasta que está neste link: https://drive.google.com/drive/folders/1hKUrLDtd3w9AhbrKMQSl-lKGZi_iB-bt?usp=sharing
+Execute o .Exe
+A calculadore será iniciada.
+
+
 
 # Como Utilizar
 A calculadora possui uma interface simples e intuitiva, com um display para exibição do resultado e botões para as operações básicas.
