@@ -1,10 +1,10 @@
 # Calculadorawf
 Este projeto é uma calculadora simples, desenvolvida em C# utilizando o Windows Forms. A calculadora é capaz de realizar operações básicas de soma, subtração, multiplicação e divisão.
 
-Requisitos
+# Requisitos
 Para executar a calculadora, é necessário ter o .NET Framework instalado na máquina. Você pode baixar a versão mais recente do .NET Framework em https://dotnet.microsoft.com/download.
 
-Como Executar
+# Como Executar
 Para executar a calculadora, siga os passos abaixo:
 
 Clone o repositório em sua máquina.
@@ -14,7 +14,7 @@ A calculadora será aberta em uma nova janela.
 Como Utilizar
 A calculadora possui uma interface simples e intuitiva, com um display para exibição do resultado e botões para as operações básicas.
 
-Para realizar uma operação, siga os passos abaixo:
+# Para realizar uma operação, siga os passos abaixo:
 
 Digite o primeiro número que deseja utilizar.
 Clique no botão da operação que deseja realizar (+, -, *, /).
@@ -22,7 +22,7 @@ Digite o segundo número que deseja utilizar.
 Clique no botão "=" para exibir o resultado.
 Você pode também limpar o display da calculadora clicando no botão "C".
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 C#
 Windows Forms
 
