@@ -11,10 +11,11 @@ Clone o repositório em sua máquina.
 Abra o projeto no Visual Studio.
 Compile e execute o projeto.
 A calculadora será aberta em uma nova janela.
-Como Utilizar
+
+# Como Utilizar
 A calculadora possui uma interface simples e intuitiva, com um display para exibição do resultado e botões para as operações básicas.
 
-# Para realizar uma operação, siga os passos abaixo:
+Para realizar uma operação, siga os passos abaixo:
 
 Digite o primeiro número que deseja utilizar.
 Clique no botão da operação que deseja realizar (+, -, *, /).
