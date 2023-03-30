@@ -11,6 +11,11 @@ Terá duas formas executar a calculadora, siga os passos abaixo:
 - Abra o projeto no Visual Studio.
 - Compile e execute o projeto.
 - A calculadora será aberta em uma nova janela.
+_______
+
+- Baixe a pasta que está neste link: https://drive.google.com/drive/folders/1hKUrLDtd3w9AhbrKMQSl-lKGZi_iB-bt?usp=sharing
+- Execute o arquivo .exe
+- A calculadora será aberta
 
 # Como Utilizar
 A calculadora possui uma interface simples e intuitiva, com um display para exibição do resultado e botões para as operações básicas.
