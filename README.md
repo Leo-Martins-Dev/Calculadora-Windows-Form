@@ -7,10 +7,10 @@ Para executar a calculadora, é necessário ter o .NET Framework instalado na m�
 # Como Executar
 Terá duas formas executar a calculadora, siga os passos abaixo:
 
-Clone o repositório em sua máquina.
-Abra o projeto no Visual Studio.
-Compile e execute o projeto.
-A calculadora será aberta em uma nova janela.
+- Clone o repositório em sua máquina.
+- Abra o projeto no Visual Studio.
+- Compile e execute o projeto.
+- A calculadora será aberta em uma nova janela.
 
 # Como Utilizar
 A calculadora possui uma interface simples e intuitiva, com um display para exibição do resultado e botões para as operações básicas.
