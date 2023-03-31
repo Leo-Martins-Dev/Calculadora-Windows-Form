@@ -1,6 +1,6 @@
 ﻿namespace Calculadorawf
 {
-    partial class Form1
+    partial class Calc
     {
         /// <summary>
         ///  Required designer variable.
@@ -248,7 +248,7 @@
             button19.UseVisualStyleBackColor = true;
             button19.Click += button19_Click;
             // 
-            // Form1
+            // Calc
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -273,8 +273,9 @@
             Controls.Add(button1);
             Controls.Add(labelOperacao);
             Controls.Add(txtResultado);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "Calc";
+            Text = "Calculadora - Leo";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
