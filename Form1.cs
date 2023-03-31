@@ -68,7 +68,7 @@ namespace Calculadorawf
 
         private void button4_Click(object sender, EventArgs e)
         {
-            if(txtResultado.Text != "")
+            if (txtResultado.Text != "")
             {
                 valor1 = decimal.Parse(txtResultado.Text, CultureInfo.InvariantCulture);
                 txtResultado.Text = "";
@@ -79,7 +79,7 @@ namespace Calculadorawf
             {
                 MessageBox.Show("Informe um valor para efetuar a operacao");
             }
-           
+
         }
 
         private void button15_Click(object sender, EventArgs e)

@@ -274,7 +274,7 @@
             Controls.Add(labelOperacao);
             Controls.Add(txtResultado);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Calculadora ";
             ResumeLayout(false);
             PerformLayout();
         }
