@@ -1,6 +1,6 @@
 ﻿namespace Calculadorawf
 {
-    partial class Calc
+    partial class Form1
     {
         /// <summary>
         ///  Required designer variable.
@@ -273,9 +273,8 @@
             Controls.Add(button1);
             Controls.Add(labelOperacao);
             Controls.Add(txtResultado);
-            Name = "Calc";
+            Name = "Form1";
             Text = "Calculadora - Leo";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

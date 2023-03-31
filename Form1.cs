@@ -2,9 +2,9 @@ using System.Globalization;
 
 namespace Calculadorawf
 {
-    public partial class Calc : Form
+    public partial class Form1 : Form
     {
-        public Calc()
+        public Form1()
         {
             InitializeComponent();
         }
@@ -68,7 +68,7 @@ namespace Calculadorawf
 
         private void button4_Click(object sender, EventArgs e)
         {
-            if (txtResultado.Text != "")
+            if(txtResultado.Text != "")
             {
                 valor1 = decimal.Parse(txtResultado.Text, CultureInfo.InvariantCulture);
                 txtResultado.Text = "";
