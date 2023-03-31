@@ -5,7 +5,7 @@ Este projeto é uma calculadora simples, desenvolvida em C# utilizando o Windows
 Para executar a calculadora, é necessário ter o .NET Framework instalado na máquina. Você pode baixar a versão mais recente do .NET Framework em https://dotnet.microsoft.com/download.
 
 # Como Executar
-Terá duas formas executar a calculadora, siga os passos abaixo:
+Terá duas formas de executar a calculadora, siga os passos abaixo:
 
   1
 - Clone o repositório em sua máquina.
